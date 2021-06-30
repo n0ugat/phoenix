@@ -1,3 +1,6 @@
+### --- PHOENIX 2021 --- ###
+# Python file used to create a circular image mask to maks out the part of the ISS around the images
+
 # importing cv2
 import cv2
 
