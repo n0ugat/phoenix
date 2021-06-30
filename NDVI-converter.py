@@ -1,3 +1,8 @@
+# We found a minor flaw in the code used for the images in the report
+# The improved images can be seen as "Improved_NDVI_225" and "Improved_NDVI_312"
+# The small difference in output NDVI is negligible and has no impact on the conclusions drawn in the report
+# In some ways the new output NDVI images work to support our hypothesis even more than the old ones
+
 from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
